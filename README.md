@@ -9,9 +9,17 @@ A Mac-style column file browser built using Google Apps Script for navigating yo
 - No external dependencies – works inside Google Workspace
 - Responsive layout for better UX
 
+
 ## 🚀 Demo
 
-<img width="677" height="358" alt="Column View Google Drive" src="https://github.com/user-attachments/assets/b3100c8b-6698-4f4c-9095-40f7fbdcb2a9" />
+![drive-browser](https://github.com/user-attachments/assets/0bd03060-fc91-43e0-bd92-e3c0d89b5a16)
+
+
+[Click here to try the demo](https://script.google.com/macros/s/AKfycbxiDqQ5zuzEQmVW9885Vn82TiNh4L03OkUf8dcEQXrNYVKNCT_6QTD7FQaTPo7k9FtGqw/exec)
+
+> ⚠️ The app may ask for permissions to access your Google Drive.  
+> If you're comfortable with that, you can go ahead and allow access.  
+> Alternatively, you can **clone this repository** and **deploy it yourself** from your own Google account.
 
 ## 📦 Installation
 
