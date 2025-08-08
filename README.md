@@ -32,10 +32,10 @@ A Mac-style column file browser built using Google Apps Script for navigating yo
 ## 📁 Folder Structure
 
 Google-Apps-Script-Drive-Column-View/
-├── code.gs 
-├── Explorer.html 
-├── LICENSE 
-└── README.md 
+├── code.gs # Main server-side Google Apps Script code
+├── Explorer.html # Frontend HTML UI for the web app
+├── LICENSE # License information
+└── README.md # Project documentation
 
 
 ## ✅ Permissions
