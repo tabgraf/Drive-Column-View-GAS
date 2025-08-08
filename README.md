@@ -19,8 +19,8 @@ A Mac-style column file browser built using Google Apps Script for navigating yo
 2. Create a new project.
 3. Copy the source code from the repository files (`Code.gs`, `Explorer.html`, etc.)
 4. Save and deploy:
-   - Click `Deploy` > `Test deployments`
-   - Choose type as "Web app"
+   - Click `Deploy` > `New deployment`
+   - Select type as "Web app"
    - Set access to "Anyone" or "Anyone within domain" based on your preference
 5. Open the deployed URL to start using your DriveColumnView browser.
 
