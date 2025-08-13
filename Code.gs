@@ -1,15 +1,15 @@
 /**
  * ------------------------------------------------------
- * Project: News Aggregator
+ * Project: GAS Mac Style Google Drive Browser
  * Company: Tabgraf Technologies LLP
  * Website: https://tabgraf.com
- * Support Email: support@tabgraf.com
+ * Email: support@tabgraf.com
  * ------------------------------------------------------
  * Description:
- *   A Google Apps Script tool that aggregates news from multiple RSS feeds into a single Google Sheet.
+ *   A Mac-style column file browser built using Google Apps Script for navigating your Google Drive with speed and style.
  *
  * Author: Tabgraf Technologies LLP
- * License: [Your License Type, e.g., MIT, Apache 2.0]
+ * License: MIT
  * ------------------------------------------------------
  */
 var MY_DRIVE=[];
